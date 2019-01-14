@@ -9,7 +9,7 @@
   "dependencies": {
     "bower": "~1.6.5",
     "connect-history-api-fallback": "~1.1.0",
-    "event-stream": "~4.0.1",
+    "event-stream": "3.3.4",
     "gulp": "~3.9.0",
     "gulp-angular-filesort": "~1.1.1",
     "gulp-bower-files": "~0.2.7",
