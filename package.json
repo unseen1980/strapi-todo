@@ -15,7 +15,7 @@
     "sails-disk": "~0.10.8",
     "socket.io": "2.4.0",
     "waterline": "~0.10.28",
-    "strapi": "3.2.5"
+    "strapi": "3.6.11"
   },
   "devDependencies": {
     "strapi-generate": "~1.5.0",
